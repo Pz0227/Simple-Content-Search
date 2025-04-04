@@ -1,6 +1,4 @@
-# AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
-
-**Deadline**: Sunday, Feb 23th 11:59 pm PST
+# AI/Machine Learning Sample Project: Simple Content-Based Recommendation
 
 ---
 
@@ -41,8 +39,3 @@ Outputs of top 5 recommended movies and links to get access to them will be prin
 - 'Shaun of the Dead', 'https://www.imdb.com/title/tt0365748/'
 - 'Insidious', 'https://www.imdb.com/title/tt1591095/'
 - 'The Mothman Prophecies', 'https://www.imdb.com/title/tt0265349/'
-
----
-**Salary Expectation Per Hour**
-
-15-30$/hr for the internship.
