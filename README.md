@@ -53,11 +53,11 @@ This project is a **content-based movie recommendation system** that suggests th
 `I love horror movies!`
 
 **Top 5 Recommended Movies**:
-- *Dawn of the Dead* — [IMDb](https://www.imdb.com/title/tt0363547/)
-- *Tucker and Dale vs Evil* — [IMDb](https://www.imdb.com/title/tt1465522/)
-- *Shaun of the Dead* — [IMDb](https://www.imdb.com/title/tt0365748/)
-- *Insidious* — [IMDb](https://www.imdb.com/title/tt1591095/)
-- *The Mothman Prophecies* — [IMDb](https://www.imdb.com/title/tt0265349/)
+- 'Dawn of the Dead', 'https://www.imdb.com/title/tt0363547/'
+- 'Tucker and Dale vs Evil', 'https://www.imdb.com/title/tt1465522/'
+- 'Shaun of the Dead', 'https://www.imdb.com/title/tt0365748/'
+- 'Insidious', 'https://www.imdb.com/title/tt1591095/'
+- 'The Mothman Prophecies', 'https://www.imdb.com/title/tt0265349/'
 
 ---
 
