@@ -1,4 +1,4 @@
-# AI/Machine Learning Sample Project: Simple Content-Based Recommendation
+# AI/Machine Learning Sample Project: Content-Based Recommendation
 
 ---
 
