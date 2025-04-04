@@ -1,4 +1,4 @@
-# AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
+# AI/Machine Learning Sample Project: Simple Content-Based Recommendation
 
 **Deadline**: Sunday, Feb 23rd, 11:59 PM PST
 
